@@ -26,7 +26,7 @@ const user1: Employee = {
   login: 'vvv',
   firstName: 'Vasia',
   isWork: true,
-}
+};
 
 interface Developer extends Employee {
   level: 'junior' | 'middle' | 'senior';
